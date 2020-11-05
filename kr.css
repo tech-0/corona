@@ -28,12 +28,13 @@ body {
     color: #fff;
 }
 		
-.ar{
+.my{
 
 font-family: Droid Arabic Kufi;
-text-align: right;
-font-size: 15px;
-color: green;
+text-align: center;
+font-size: 20px;
+color: black;
+ margin-top: 10px;
 
 }
 .kr{
@@ -42,4 +43,12 @@ color: green;
 	text-align: right;
 	font-size: 15px;
 	margin: 10px 20px 20px 20px;
+
+}
+
+.myDiv {
+ 
+  background-color: white;
+  text-align: right;
+  margin: 10px 20px 20px 20px;
 }
