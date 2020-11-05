@@ -28,7 +28,7 @@ body {
     color: #fff;
 }
 		
-.my{
+.a{
 
 font-family: Droid Arabic Kufi;
 text-align: center;
@@ -37,18 +37,15 @@ color: black;
  margin-top: 10px;
 
 }
-.kr{
 
-	font-family: Unikurd Goran;
-	text-align: right;
-	font-size: 15px;
-	margin: 10px 20px 20px 20px;
-
+.b {
+  color: red;
+  text-align: right;
+  margin: 10px 20px 20px 20px;
 }
 
-.myDiv {
- 
-  background-color: white;
+.c {
+  color: black;
   text-align: right;
   margin: 10px 20px 20px 20px;
 }
