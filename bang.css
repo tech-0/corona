@@ -1,0 +1,43 @@
+/*Global*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+body {
+   
+	font-family: Droid Arabic Kufi;
+	text-align: right;
+}
+
+/**/
+
+.navbar {
+    background-color: #652d82;
+    color: #fff;
+}
+
+.navbar-nav {
+    display: inline-block;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand i {
+    color: #fff;
+}
+
+		
+p{
+
+	font-family: Droid Arabic Kufi;
+	text-align: center;
+	font-size: 15px;
+	color: black;
+    margin: 20px 20px;
+    margin-top: 10px;
+
+}
