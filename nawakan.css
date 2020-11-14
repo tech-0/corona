@@ -45,7 +45,11 @@ p{
     margin-top: 10px;
 
 }
-#hp{
-	float: right;
-	 margin: 20px 20px 20px 20px;
+strong{
+	float: center;
+  font-family: Droid Arabic Kufi;
+	text-align: center;
+	font-size: 20px;
+	color: red;
+   
 }
