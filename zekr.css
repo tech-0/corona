@@ -1,0 +1,47 @@
+/*Global*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/**/
+
+.navbar {
+    background-color: #652d82;
+    color: #fff;
+}
+
+.navbar-nav {
+    display: inline-block;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand i {
+    color: #fff;
+}
+		
+.a{
+
+font-family: Droid Arabic Kufi;
+text-align: center;
+font-size: 20px;
+color: black;
+ margin-top: 10px;
+
+}
+
+.b {
+  color: red;
+  text-align: center;
+  margin: auto;
+}
+
+
